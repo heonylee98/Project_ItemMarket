@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508580211116",
+    "project_id": "itemmarket-86bd9",
+    "storage_bucket": "itemmarket-86bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508580211116:android:b038f0ca51e9181130f209",
+        "android_client_info": {
+          "package_name": "com.jiheon.itemmarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4brU364wCTV-5bnszqItZ8jArqgVvltM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
